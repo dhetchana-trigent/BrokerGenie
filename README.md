@@ -114,8 +114,4 @@ Private project for Trigent Software.
 ## 🔗 Links
 
 - **Repository**: [https://github.com/dhetchana-trigent/BrokerGenie](https://github.com/dhetchana-trigent/BrokerGenie)
-- **Live Demo**: Coming soon
 
----
-
-**Built with ❤️ by Trigent Software**
